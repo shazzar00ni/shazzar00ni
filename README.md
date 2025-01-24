@@ -4,6 +4,7 @@
     - 💞️ I’m looking to collaborate when I'm up speed on the above 👆
     - 📫 Email- shanlockett@gmail.com, shazzarooni@proton.me
     - 😄 Pronouns: she/her
+    - 🔗 My LinkTree: https://linktr.ee/shazzar00ni
     - ⚡ Fun fact: Im a retailer by day 💁🏻‍♀️😀
 <!---
 shazzar00ni/shazzar00ni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
