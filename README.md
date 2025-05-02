@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Shannon/@shazzarooni👩🏻‍💻 this is my GubHub README file
+# 👋 Hi, I’m Shannon/@shazzarooni👩🏻‍💻 welcome to my GubHub!
+
+## 👩🏻‍🏫 About me
 
 ## 👀 I’m interested in:
 
