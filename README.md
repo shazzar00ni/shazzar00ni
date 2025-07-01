@@ -5,9 +5,10 @@
 ## 👀 I’m interested in:
 
 - Computing and software development
+- Web design
 - Photography
 - Art and graphic design
-- Artificial Intelligence and chatGPT
+- Artificial Intelligence
 - Film
 - Writing
 - Creating
@@ -19,9 +20,9 @@
 
 ## I'm learning:
 
-- Python
+- Tailwind CSS
 - JavaScript
-- Brushing up on HTML and CSS
+- Brushing up on HTML
 
 ---
 
@@ -31,8 +32,8 @@
 
 ### 😄 Pronouns: she/her
 ### 🔗 My LinkTree: https://linktr.ee/shazzar00ni
-### 🖇️ My portfolio: https://preview--cv-portfolio-hub.lovable.app/
-### ⚡ Fun fact: Im a retailer by day 💁🏻‍♀️😀 I play the drums 🥁 
+### 🖇️ My portfolio: TBA
+### ⚡ Fun fact: I'm a retailer by day 💁🏻‍♀️😀 I play the drums 🥁 
 
 <!---
 shazzar00ni/shazzar00ni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
